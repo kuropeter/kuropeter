@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-22136.jpg" alt="Business data financial figures visualiser graphic" style="width: 65%;">
+<!-- <img src="https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-22136.jpg" alt="Business data financial figures visualiser graphic" style="width: 65%;"> -->
 
 <h1 align="center">Hi 👋, I'm Kuro Peter</h1>
 <h3 align="center">An Enthusiastic Data Analyst/Scientist from Nigeria</h3>

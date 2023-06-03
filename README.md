@@ -1,11 +1,11 @@
-<!-- <img src="https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-22136.jpg" alt="Business data financial figures visualiser graphic" style="width: 65%;"> -->
+<!-- <img alt="Coding" width ="400" src="https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-22136.jpg" alt="Business data financial figures visualiser graphic"> -->
 
 <h1 align="center">Hi 👋, I'm Kuro Peter</h1>
 <h3 align="center">An Enthusiastic Data Analyst/Scientist from Nigeria</h3>
-
+<img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/03/13/40/45/1000_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 - 💬 Ask me about **Python, SQL, MS Excel**
 
-- 📫 How to reach me **kdoumu@gmail.com**
+- 📫 How to reach me **kdoumu@gmail.com**!
 
 - ⚡ Fun fact **Massive FPL player**
 

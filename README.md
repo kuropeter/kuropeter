@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kdoumu@gmail.com**!
 
-- ⚡ Fun fact **Massive FPL player**
+- ⚡ Fun fact: **Massive FPL player**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

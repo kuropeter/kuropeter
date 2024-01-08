@@ -10,7 +10,7 @@
 - ⚡ Fun fact: **Massive FPL player**
 
 ### Blogs posts
-- [My First Machine Learning Project: Customer Churn Analysis in a Bank](https://medium.com/@kdoumu/my-first-machine-learning-project-customer-churn-analysis-in-a-bank-bddb08f1c2f3)
+- [My Self-Development Blog](https://medium.com/@kuropeter)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

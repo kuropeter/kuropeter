@@ -10,7 +10,7 @@
 - ⚡ Fun fact: **Massive FPL player**
 
 ### Blogs posts
-- [My Self-Development Blog](https://medium.com/@kuropeter)
+- [My Self-Development Blog](https://medium.com/@kurodoumu)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
